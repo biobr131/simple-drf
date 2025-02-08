@@ -1,0 +1,8 @@
+psycopg[binary]
+django
+djangorestframework
+django-environ
+gunicorn
+django-structlog
+drf-spectacular[sidecar]
+django-auditlog

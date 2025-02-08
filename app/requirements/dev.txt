@@ -1,0 +1,10 @@
+-r common.txt
+black
+ruff
+mypy
+tox
+pytest-django
+pytest-randomly
+pytest-cov
+factory-boy
+pytest-structlog
